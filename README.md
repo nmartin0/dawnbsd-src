@@ -67,7 +67,7 @@ are welcomed. Please fork a copy of DawnBSD, clone it, develop it locally, and
 build it locally before submitting changes upstream. 
 
 ### Mandatory "Why not the other BSDs?"
-FreeBSD and NetBSD are large, feature-rich operating system with innovative
+FreeBSD and NetBSD are large, feature-rich operating systems with innovative
 technology. These features also introduce complexity on par with other large
 operating system such as GNU/Linux and the illumos project. 386BSD 0.1 and
 4.4BSD Lite2 are two small, functional Unix-like operating systems which partly
